@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h2 {
+  margin-top: 20px;
+}
